@@ -62,8 +62,8 @@ The data allows comprehensive operational analysis across multiple business func
 
 # Dataset Information
 
--Number of Records 100
--Number of Features 24
+-Number of Records :100
+-Number of Features :24
 -Data Type Structured Business Dataset
 -Domain Supply Chain Management
 
