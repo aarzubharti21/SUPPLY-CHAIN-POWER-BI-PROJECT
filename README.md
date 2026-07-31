@@ -1,4 +1,3 @@
-## SUPPLY-CHAIN-POWER-BI-PROJECT
 # Supply Chain Performance Analytics Dashboard
 
 <p align="center">
@@ -20,30 +19,45 @@ Supply chain operations involve multiple interconnected processes, including pro
 Business leaders need a centralized reporting solution that enables them to answer questions such as:
 
 - Which product category generates the highest revenue?
+  
 - Which suppliers have the highest defect rates?
+  
 - How efficiently is inventory managed?
+  
 - Which transportation mode is the most cost-effective?
+  
 - Which customer demographic generates the most revenue?
+  
 - Which locations contribute the highest manufacturing costs?
+  
 - How do production volumes compare across suppliers?
+  
 - Which products require immediate inventory attention?
 
 This dashboard was created to address these analytical challenges.
 
-## Project Objectives
+# Project Objectives
 The primary objectives of this project are:
 
 - Analyze overall supply chain performance.
+  
 - Monitor inventory availability across products.
+  
 - Evaluate supplier performance and quality.
+  
 - Compare manufacturing costs and production volumes.
+  
 - Analyze transportation and shipping efficiency.
+  
 - Monitor logistics costs.
+  
 - Identify high-performing product categories.
+  
 - Evaluate customer demographics.
+  
 - Build an interactive Power BI dashboard for business reporting.
 
-## About the Dataset
+# About the Dataset
 The dashboard uses a structured Supply Chain dataset containing 100 product records and 24 business attributes representing different stages of the supply chain.
 
 The dataset combines information related to:
@@ -150,7 +164,7 @@ The dashboard is designed to help business users:
 
 -Reduce operational inefficiencies.
 
-## Key Performance Indicators
+# Key Performance Indicators
 The dashboard highlights several important KPIs that summarize overall supply chain performance.
 
 **Total Revenue** :
@@ -174,7 +188,7 @@ Shows the overall product defect percentage.
 **Average supplier Lead Time** :
 Measures procurement and manufacturing efficiency.
 
-## Dashboard Visualizations
+# Dashboard Visualizations
 The dashboard contains interactive visualizations designed for business users.
 
 **Revenue by Product Type** :
@@ -207,10 +221,9 @@ Highlights products and suppliers with higher defect percentages.
 **Logistics Cost Analysis** :
 Shows transportation costs across routes and shipping modes.
 
-## Data Preparation
+# Data Preparation
 Before developing the dashboard, the dataset was processed using Power Query.
-
-# The preparation process included:
+The preparation process included:
 
 -Data validation 
 
@@ -230,9 +243,8 @@ Before developing the dashboard, the dataset was processed using Power Query.
 
 The cleaned dataset was then loaded into Power BI for visualization.
 
-## Power BI Features Used
+# Power BI Features Used
 The project demonstrates several Power BI capabilities including:
-
 -Power Query 
 
 -Data Transformation
@@ -265,7 +277,7 @@ The project demonstrates several Power BI capabilities including:
 
 -Drill-down Analysis
 
-## Business Questions Answered
+# Business Questions Answered
 
 The dashboard helps answer important operational questions such as:
 
@@ -320,7 +332,7 @@ This project demonstrates practical knowledge of:
 
 14.Analytical Thinking
 
-## Tools and Technologies
+# Tools and Technologies
 The project was developed using:
 
 .Microsoft Power BI Desktop
@@ -337,7 +349,7 @@ The project was developed using:
 
 .Interactive Visualizations
 
-## Conclusion
+# Conclusion
 
 The Supply Chain Performance Analytics Dashboard demonstrates how Power BI can transform operational supply chain data into meaningful business intelligence. By integrating inventory, manufacturing, supplier, logistics, transportation, and quality metrics into a single interactive dashboard, the project provides stakeholders with a comprehensive view of supply chain performance. It showcases practical skills in data modeling, DAX, visualization, and analytical problem-solving while highlighting the value of Business Intelligence in improving operational efficiency and supporting strategic decision-making.
 
