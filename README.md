@@ -174,81 +174,80 @@ Before developing the dashboard, the dataset was processed using Power Query.
 
 # The preparation process included:
 
--Data validation
--Missing value verification
--Data type correction
--Duplicate checking
--Formatting numeric fields
--Creating calculated columns
--Creating DAX measures
--Building relationships where required
+-.Data validation
+-.Missing value verification
+-.Data type correction
+-.Duplicate checking
+-.Formatting numeric fields
+-.Creating calculated columns
+-.Creating DAX measures
+-.Building relationships where required
 
 The cleaned dataset was then loaded into Power BI for visualization.
 
 ## Power BI Features Used
 The project demonstrates several Power BI capabilities including:
 
--Power Query
--Data Transformation
--Data Modeling
--DAX Measures
--Calculated Columns
--KPI Cards
--Slicers
--Matrix Tables
--Bar Charts
--Column Charts
--Line Charts
--Pie Charts
--Donut Charts
--Interactive Filtering
--Cross Highlighting
--Drill-down Analysis
+-.Power Query
+-.Data Transformation
+-.Data Modeling
+-.DAX Measures
+-.Calculated Columns
+-.KPI Cards
+-.Slicers
+-.Matrix Tables
+-.Bar Charts
+-.Column Charts
+-.Line Charts
+-.Pie Charts
+-.Donut Charts
+-.Interactive Filtering
+-.Cross Highlighting
+-.Drill-down Analysis
 
 ## Business Questions Answered
 
 The dashboard helps answer important operational questions such as:
 
-Which product category generates the highest revenue?
-Which supplier delivers the best overall performance?
-Which transportation mode incurs the highest logistics cost?
-Which customer demographic purchases the most products?
-Which products have critically low inventory?
-Which suppliers produce the highest defect rates?
-Which shipping carrier provides faster deliveries?
-Which manufacturing locations incur higher production costs?
-Which products generate the highest profitability?
-Where should inventory be replenished first?
-Business Insights
+1.Which product category generates the highest revenue?
+2.Which supplier delivers the best overall performance?
+3.Which transportation mode incurs the highest logistics cost?
+4.Which customer demographic purchases the most products?
+5.Which products have critically low inventory?
+6.Which suppliers produce the highest defect rates?
+7.Which shipping carrier provides faster deliveries?
+8.Which manufacturing locations incur higher production costs?
+9.Which products generate the highest profitability?
+10.Where should inventory be replenished first?
 
 # skills demonstrated
 This project demonstrates practical knowledge of:
 
-Power BI Dashboard Development
-Business Intelligence
-Supply Chain Analytics
-Inventory Analysis
-Logistics Analytics
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX
-KPI Design
-Data Visualization
-Operational Analytics
-Business Reporting
-Analytical Thinking
-Tools and Technologies
+1.Power BI Dashboard Development
+2.Business Intelligence
+3.Supply Chain Analytics
+4.Inventory Analysis
+5.Logistics Analytics
+6.Data Cleaning
+7.Data Transformation
+8.Data Modeling
+9.DAX
+10.KPI Design
+11.Data Visualization
+12.Operational Analytics
+13.Business Reporting
+14.Analytical Thinking
 
-# The project was developed using:
+## Tools and Technologies
+The project was developed using:
 
-Microsoft Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Microsoft Excel
-CSV Dataset
-Data Modeling
-Interactive Visualizations
+.Microsoft Power BI Desktop
+.Power Query
+.DAX (Data Analysis Expressions)
+.Microsoft Excel
+.CSV Dataset
+.Data Modeling
+.Interactive Visualizations
 
 ## Conclusion
 
