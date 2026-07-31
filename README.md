@@ -1,6 +1,10 @@
 ## SUPPLY-CHAIN-POWER-BI-PROJECT
 # Supply Chain Performance Analytics Dashboard
 
+<p align="center">
+  <img src="Screenshot%20power%20bi%20dashboard%20supply%20chain.png" alt="Supply Chain Analytics Dashboard" width="1000"/>
+</p>
+
 # Project Overview
 
 Supply chain management plays a critical role in ensuring products move efficiently from manufacturers to customers while maintaining quality, minimizing costs, and maximizing profitability. Organizations generate large volumes of operational data every day, making it difficult to identify bottlenecks and performance issues without proper analytical tools.
