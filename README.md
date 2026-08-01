@@ -1,8 +1,4 @@
-# Supply Chain Performance Analytics Dashboard
-
-<p align="center">
-  <img src="Screenshot%20power%20bi%20dashboard%20supply%20chain.png" alt="Supply Chain Analytics Dashboard" width="1000"/>
-</p>
+# Supply Chain Performance Analytics Project POWER BI
 
 # Project Overview
 
