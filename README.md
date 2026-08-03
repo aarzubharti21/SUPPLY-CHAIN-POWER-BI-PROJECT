@@ -1,4 +1,4 @@
-# Supply Chain Performance Analytics Project POWER BI Project
+# Supply Chain Performance Analytics POWER BI Project
 
 ## Overview
 
@@ -14,7 +14,7 @@ The file in which the analysis is done is Supply Chain power bi dashboard 22-7-2
 
 A structured data modeling and business intelligence approach was implemented to build an efficient and interactive reporting solution. The core analytical phases included:
 
-1.**Data Modeling**: Established a robust relational data model by organizing product, supplier, inventory, manufacturing, transportation, and logistics data into a structured model that supports efficient filtering and accurate reporting.
+***Data Modeling**: Established a robust relational data model by organizing product, supplier, inventory, manufacturing, transportation, and logistics data into a structured model that supports efficient filtering and accurate reporting.
 
 2.**Customer Segmentation**: Analyzed customer demographics to evaluate purchasing behavior across different customer groups, enabling comparison of revenue contribution and product demand among demographic segments.
 
