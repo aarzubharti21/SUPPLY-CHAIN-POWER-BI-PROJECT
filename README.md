@@ -14,38 +14,38 @@ The file in which the analysis is done is Supply Chain power bi dashboard 22-7-2
 
 A structured data modeling and business intelligence approach was implemented to build an efficient and interactive reporting solution. The core analytical phases included:
 
-**Data Modeling**: Established a robust relational data model by organizing product, supplier, inventory, manufacturing, transportation, and logistics data into a structured model that supports efficient filtering and accurate reporting.
+1.**Data Modeling**: Established a robust relational data model by organizing product, supplier, inventory, manufacturing, transportation, and logistics data into a structured model that supports efficient filtering and accurate reporting.
 
-**Customer Segmentation**: Analyzed customer demographics to evaluate purchasing behavior across different customer groups, enabling comparison of revenue contribution and product demand among demographic segments.
+2.**Customer Segmentation**: Analyzed customer demographics to evaluate purchasing behavior across different customer groups, enabling comparison of revenue contribution and product demand among demographic segments.
 
-**Financial Metric Computation**: Developed dynamic DAX measures to calculate key business metrics including Total Revenue, Average Manufacturing Cost, Average Shipping Cost, Transportation Cost, Production Volume, Inventory Availability, and Average Defect Rate for performance monitoring.
+3.**Financial Metric Computation**: Developed dynamic DAX measures to calculate key business metrics including Total Revenue, Average Manufacturing Cost, Average Shipping Cost, Transportation Cost, Production Volume, Inventory Availability, and Average Defect Rate for performance monitoring.
 
-**Data Transformation**: Performed extensive data cleaning and transformation using Power Query by handling missing values, correcting data types, standardizing categorical fields, optimizing columns, and preparing the dataset for advanced analytics.
+4.**Data Transformation**: Performed extensive data cleaning and transformation using Power Query by handling missing values, correcting data types, standardizing categorical fields, optimizing columns, and preparing the dataset for advanced analytics.
 
 # Dashboard
 
 The final deliverable consists of a highly interactive Power BI dashboard that leverages dynamic slicers, KPI cards, drill-down capabilities, and cross-filtering to provide comprehensive supply chain insights.
 
-1.Executive Performance Dashboard: Presents overall business KPIs including **Revenue Generated**, **Products Sold**, **Inventory Availability**, **Manufacturing Cost**,**Shipping Cost**, **Transportation Cost**, **Production Volume**, and **Defect Rate** to monitor operational performance.
+1.**Executive Performance Dashboard**: Presents overall business KPIs including **Revenue Generated**, **Products Sold**, **Inventory Availability**, **Manufacturing Cost**,**Shipping Cost**, **Transportation Cost**, **Production Volume**, and **Defect Rate** to monitor operational performance.
 
 
-2.Supply Chain Operations Dashboard: Enables detailed analysis of Supplier Performance, Product Categories, Inventory Levels, Customer Demographics, Transportation Modes, Shipping Carriers, Inspection Results, Manufacturing Efficiency, and Logistics Costs through interactive visualizations and filters.
+2.**Supply Chain Operations Dashboard**: Enables detailed analysis of Supplier Performance, Product Categories, Inventory Levels, Customer Demographics, Transportation Modes, Shipping Carriers, Inspection Results, Manufacturing Efficiency, and Logistics Costs through interactive visualizations and filters.
 
 # Recommendations
 
 Drawing from the interactive exploration of the data, the following strategic actions are recommended to improve overall supply chain performance:
 
-**Optimize Inventory Planning**: Continuously monitor stock levels and product availability to reduce stockouts while minimizing excess inventory carrying costs.
+1.**Optimize Inventory Planning**: Continuously monitor stock levels and product availability to reduce stockouts while minimizing excess inventory carrying costs.
 
-**Improve Supplier Performance**: Prioritize partnerships with suppliers demonstrating consistent quality and lower defect rates while implementing corrective actions for underperforming suppliers.
+2.**Improve Supplier Performance**: Prioritize partnerships with suppliers demonstrating consistent quality and lower defect rates while implementing corrective actions for underperforming suppliers.
 
-**Reduce Logistics Costs**: Analyze transportation modes, shipping carriers, and delivery routes to identify cost-saving opportunities without compromising delivery performance.
+3.**Reduce Logistics Costs**: Analyze transportation modes, shipping carriers, and delivery routes to identify cost-saving opportunities without compromising delivery performance.
 
-**Strengthen Manufacturing Efficiency**: Monitor production volumes, lead times, and manufacturing costs to improve operational productivity and resource utilization.
+4.**Strengthen Manufacturing Efficiency**: Monitor production volumes, lead times, and manufacturing costs to improve operational productivity and resource utilization.
 
-**Focus on High-Revenue Products**: Allocate inventory and production capacity toward high-performing product categories to maximize profitability and meet customer demand efficiently.
+5.**Focus on High-Revenue Products**: Allocate inventory and production capacity toward high-performing product categories to maximize profitability and meet customer demand efficiently.
 
-**Leverage Dashboard Insights**: Use interactive KPI monitoring and real-time performance analysis to support faster, data-driven strategic decisions across the supply chain.
+6.**Leverage Dashboard Insights**: Use interactive KPI monitoring and real-time performance analysis to support faster, data-driven strategic decisions across the supply chain.
 
 # Conclusion
 
