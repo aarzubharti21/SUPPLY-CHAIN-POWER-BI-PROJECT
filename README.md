@@ -1,349 +1,51 @@
-# Supply Chain Performance Analytics Project POWER BI
+# Supply Chain Performance Analytics Project POWER BI Project
 
-# Project Overview
+## Overview
 
-Supply chain management plays a critical role in ensuring products move efficiently from manufacturers to customers while maintaining quality, minimizing costs, and maximizing profitability. Organizations generate large volumes of operational data every day, making it difficult to identify bottlenecks and performance issues without proper analytical tools.
+I am excited to present the Supply Chain Performance Dashboard, an advanced Power BI analytics project designed to transform raw supply chain operational data into actionable business intelligence. This project integrates inventory, suppliers, manufacturing, logistics, transportation, and sales information into an interactive reporting solution that provides valuable insights into operational efficiency, product performance, inventory health, supplier quality, and logistics costs. The dashboard enables business users to monitor key performance indicators and make data-driven decisions across the entire supply chain.
 
-This project presents an interactive Supply Chain Performance Dashboard developed using Microsoft Power BI. The dashboard converts raw supply chain data into meaningful business insights, allowing stakeholders to monitor inventory availability, supplier performance, manufacturing efficiency, logistics costs, transportation modes, shipping performance, inspection results, and product profitability.
+## Problem Statement
 
-The purpose of this project is to demonstrate how Business Intelligence can transform operational data into actionable insights that support faster and more informed business decisions.
+The primary objective of this project was to develop a comprehensive monitoring solution for end-to-end supply chain performance. The available data consisted of multiple operational dimensions including products, suppliers, manufacturing, inventory, transportation, and logistics, making it difficult to evaluate business performance from a single view. The project required the creation of an interactive Power BI dashboard capable of analyzing inventory availability, supplier performance, production efficiency, logistics costs, transportation modes, and product quality while supporting dynamic filtering and business decision-making.
 
-# Business Problem
+## Analysis Done
 
-Supply chain operations involve multiple interconnected processes, including procurement, manufacturing, inventory management, transportation, quality inspection, and order fulfillment. Monitoring these activities manually is time-consuming and often leads to delayed decision-making.
+The file in which the analysis is done is Supply Chain 
 
-Business leaders need a centralized reporting solution that enables them to answer questions such as:
+A structured data modeling and business intelligence approach was implemented to build an efficient and interactive reporting solution. The core analytical phases included:
 
-- Which product category generates the highest revenue?
-  
-- Which suppliers have the highest defect rates?
-  
-- How efficiently is inventory managed?
-  
-- Which transportation mode is the most cost-effective?
-  
-- Which customer demographic generates the most revenue?
-  
-- Which locations contribute the highest manufacturing costs?
-  
-- How do production volumes compare across suppliers?
-  
-- Which products require immediate inventory attention?
+**Data Modeling**: Established a robust relational data model by organizing product, supplier, inventory, manufacturing, transportation, and logistics data into a structured model that supports efficient filtering and accurate reporting.
 
-This dashboard was created to address these analytical challenges.
+**Customer Segmentation**: Analyzed customer demographics to evaluate purchasing behavior across different customer groups, enabling comparison of revenue contribution and product demand among demographic segments.
 
-# Project Objectives
-The primary objectives of this project are:
+**Financial Metric Computation**: Developed dynamic DAX measures to calculate key business metrics including Total Revenue, Average Manufacturing Cost, Average Shipping Cost, Transportation Cost, Production Volume, Inventory Availability, and Average Defect Rate for performance monitoring.
 
-- Analyze overall supply chain performance.
-  
-- Monitor inventory availability across products.
-  
-- Evaluate supplier performance and quality.
-  
-- Compare manufacturing costs and production volumes.
-  
-- Analyze transportation and shipping efficiency.
-  
-- Monitor logistics costs.
-  
-- Identify high-performing product categories.
-  
-- Evaluate customer demographics.
-  
-- Build an interactive Power BI dashboard for business reporting.
+**Data Transformation**: Performed extensive data cleaning and transformation using Power Query by handling missing values, correcting data types, standardizing categorical fields, optimizing columns, and preparing the dataset for advanced analytics.
 
-# About the Dataset
-The dashboard uses a structured Supply Chain dataset containing 100 product records and 24 business attributes representing different stages of the supply chain.
+# Dashboard
 
-The dataset combines information related to:
+The final deliverable consists of a highly interactive Power BI dashboard that leverages dynamic slicers, KPI cards, drill-down capabilities, and cross-filtering to provide comprehensive supply chain insights.
 
-- Products
-  
-- Sales
-  
-- Inventory
-  
-- Manufacturing
-  
-- Logistics
-  
-- Suppliers
-  
-- Quality Inspection
-  
-- Transportation
-  
-- Customer Demographics
+1.Executive Performance Dashboard: Presents overall business KPIs including **Revenue Generated**, **Products Sold**, **Inventory Availability**, **Manufacturing Cost**,**Shipping Cost**, **Transportation Cost**, **Production Volume**, and **Defect Rate** to monitor operational performance.
 
-The data allows comprehensive operational analysis across multiple business functions.
 
-## Dataset Information
+2.Supply Chain Operations Dashboard: Enables detailed analysis of Supplier Performance, Product Categories, Inventory Levels, Customer Demographics, Transportation Modes, Shipping Carriers, Inspection Results, Manufacturing Efficiency, and Logistics Costs through interactive visualizations and filters.
 
--Number of Records :100
+# Recommendations
 
--Number of Features :24
+Drawing from the interactive exploration of the data, the following strategic actions are recommended to improve overall supply chain performance:
 
--Data Type Structured Business Dataset
+**Optimize Inventory Planning**: Continuously monitor stock levels and product availability to reduce stockouts while minimizing excess inventory carrying costs.
 
--Domain Supply Chain Management
+**Improve Supplier Performance**: Prioritize partnerships with suppliers demonstrating consistent quality and lower defect rates while implementing corrective actions for underperforming suppliers.
 
-## Dataset Columns
+**Reduce Logistics Costs**: Analyze transportation modes, shipping carriers, and delivery routes to identify cost-saving opportunities without compromising delivery performance.
 
-The dataset contains the following fields:
+**Strengthen Manufacturing Efficiency**: Monitor production volumes, lead times, and manufacturing costs to improve operational productivity and resource utilization.
 
--Product Type
+**Focus on High-Revenue Products**: Allocate inventory and production capacity toward high-performing product categories to maximize profitability and meet customer demand efficiently.
 
--SKU
-
--Price
-
--Availability
-
--Number of Products Sold
-
--Revenue Generated
-
--Customer Demographics
-
--Stock Levels
-
--Lead Times
-
--Order Quantities
-
--Shipping Times
-
--Shipping Carriers
-
--Shipping Costs
-
--Supplier Name
-
--Location
-
--Lead Time
-
--Production Volumes
-
--Manufacturing Lead Time
-
--Manufacturing Costs
-
--Inspection Results
-
--Defect Rates
-
--Transportation Modes
-
--Routes
-
--Costs
-
-## Dashboard Objectives
-
-The dashboard is designed to help business users:
-
--Monitor operational performance.
-
--Evaluate inventory levels.
-
--Analyze supplier efficiency.
-
--Measure manufacturing performance.
-
--Compare transportation costs.
-
--Understand customer demand.
-
--Improve logistics planning.
-
--Reduce operational inefficiencies.
-
-# Key Performance Indicators
-The dashboard highlights several important KPIs that summarize overall supply chain performance.
-
-**Total Revenue** :
-Displays the overall revenue generated across all products.
-
-**Total Products Sold** :
-Represents the total quantity of products sold.
-
-**Average Product Price** :
-Shows the average selling price across all products.
-
-**Average Manufacturing Cost** :
-Measures average production cost.
-
-**Average Shipping Cost** :
-Calculates average logistics expense.
-
-**Average Defect Rate** :
-Shows the overall product defect percentage.
-
-**Average supplier Lead Time** :
-Measures procurement and manufacturing efficiency.
-
-# Dashboard Visualizations
-The dashboard contains interactive visualizations designed for business users.
-
-**Revenue by Product Type** :
-Compares revenue generated by Haircare, Skincare, and Cosmetics products.
-
-**Revenue by Customer Demographics** :
-Shows purchasing behavior across different customer segments.
-
-**Supplier Performance** :
-Compares suppliers based on revenue, defect rate, and manufacturing performance.
-
-**Inventory Analysis** :
-Visualizes stock levels and product availability.
-
-**Manufacturing Cost Analysis** :
-Compares manufacturing expenses across suppliers and locations.
-
-**Transportation Analysis** :
-Evaluates Road, Air, Rail, and Sea transportation performance.
-
-**Shipping Carrier Analysis** :
-Compares logistics providers based on shipping time and shipping cost.
-
-**Quality Inspection Analysis** :
-Displays inspection outcomes and product quality distribution.
-
-**Defect Rate Analysis** :
-Highlights products and suppliers with higher defect percentages.
-
-**Logistics Cost Analysis** :
-Shows transportation costs across routes and shipping modes.
-
-# Data Preparation
-Before developing the dashboard, the dataset was processed using Power Query.
-The preparation process included:
-
--Data validation 
-
--Missing value verification
-
--Data type correction
-
--Duplicate checking
-
--Formatting numeric fields
-
--Creating calculated columns
-
--Creating DAX measures
-
--Building relationships where required
-
-The cleaned dataset was then loaded into Power BI for visualization.
-
-# Power BI Features Used
-The project demonstrates several Power BI capabilities including:
--Power Query 
-
--Data Transformation
-
--Data Modeling
-
--DAX Measures
-
--Calculated Columns
-
--KPI Cards
-
--Slicers
-
--Matrix Tables
-
--Bar Charts
-
--Column Charts
-
--Line Charts
-
--Pie Charts
-
--Donut Charts
-
--Interactive Filtering
-
--Cross Highlighting
-
--Drill-down Analysis
-
-# Business Questions Answered
-
-The dashboard helps answer important operational questions such as:
-
-1.Which product category generates the highest revenue?
-
-2.Which supplier delivers the best overall performance?
-
-3.Which transportation mode incurs the highest logistics cost?
-
-4.Which customer demographic purchases the most products?
-
-5.Which products have critically low inventory?
-
-6.Which suppliers produce the highest defect rates?
-
-7.Which shipping carrier provides faster deliveries?
-
-8.Which manufacturing locations incur higher production costs?
-
-9.Which products generate the highest profitability?
-
-10.Where should inventory be replenished first?
-
-# skills demonstrated
-This project demonstrates practical knowledge of:
-
-1.Power BI Dashboard Development
-
-2.Business Intelligence
-
-3.Supply Chain Analytics
-
-4.Inventory Analysis
-
-5.Logistics Analytics
-
-6.Data Cleaning
-
-7.Data Transformation
-
-8.Data Modeling
-
-9.DAX
-
-10.KPI Design
-
-11.Data Visualization
-
-12.Operational Analytics
-
-13.Business Reporting
-
-14.Analytical Thinking
-
-# Tools and Technologies
-The project was developed using:
-
-.Microsoft Power BI Desktop
-
-.Power Query
-
-.DAX (Data Analysis Expressions)
-
-.Microsoft Excel
-
-.CSV Dataset
-
-.Data Modeling
-
-.Interactive Visualizations
+**Leverage Dashboard Insights**: Use interactive KPI monitoring and real-time performance analysis to support faster, data-driven strategic decisions across the supply chain.
 
 # Conclusion
 
@@ -351,3 +53,32 @@ The Supply Chain Performance Analytics Dashboard demonstrates how Power BI can t
 
 ## AUTHOR
 ## AARZU BHARTI
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
