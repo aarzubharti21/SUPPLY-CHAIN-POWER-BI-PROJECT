@@ -26,7 +26,7 @@ A structured data modeling and business intelligence approach was implemented to
 
 The final deliverable consists of a highly interactive Power BI dashboard that leverages dynamic slicers, KPI cards, drill-down capabilities, and cross-filtering to provide comprehensive supply chain insights.
 
-- **Executive Performance Dashboard**: Presents overall business KPIs including **Revenue Generated**, **Products Sold**, **Inventory Availability**, **Manufacturing Cost**,**Shipping Cost**, **Transportation Cost**, **Production Volume**, and **Defect Rate** to monitor operational performance.
+-**Executive Performance Dashboard**: Presents overall business KPIs including **Revenue Generated**, **Products Sold**, **Inventory Availability**, **Manufacturing Cost**,**Shipping Cost**, **Transportation Cost**, **Production Volume**, and **Defect Rate** to monitor operational performance.
 
 
 - **Supply Chain Operations Dashboard**: Enables detailed analysis of Supplier Performance, Product Categories, Inventory Levels, Customer Demographics, Transportation Modes, Shipping Carriers, Inspection Results, Manufacturing Efficiency, and Logistics Costs through interactive visualizations and filters.
@@ -52,7 +52,7 @@ Drawing from the interactive exploration of the data, the following strategic ac
 The Supply Chain Performance Analytics Dashboard demonstrates how Power BI can transform operational supply chain data into meaningful business intelligence. By integrating inventory, manufacturing, supplier, logistics, transportation, and quality metrics into a single interactive dashboard, the project provides stakeholders with a comprehensive view of supply chain performance. It showcases practical skills in data modeling, DAX, visualization, and analytical problem-solving while highlighting the value of Business Intelligence in improving operational efficiency and supporting strategic decision-making.
 
 ## AUTHOR
-## AARZU BHARTI
+   Aarzu Bharti
 
 
 
