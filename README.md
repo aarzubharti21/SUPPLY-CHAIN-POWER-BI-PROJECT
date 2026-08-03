@@ -10,7 +10,7 @@ The primary objective of this project was to develop a comprehensive monitoring 
 
 ## Analysis Done
 
-The file in which the analysis is done is Supply Chain 
+The file in which the analysis is done is Supply Chain power bi dashboard 22-7-2026 supply chain project.pbix
 
 A structured data modeling and business intelligence approach was implemented to build an efficient and interactive reporting solution. The core analytical phases included:
 
