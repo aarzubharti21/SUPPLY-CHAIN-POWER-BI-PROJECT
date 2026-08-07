@@ -52,7 +52,7 @@ Drawing from the interactive exploration of the data, the following strategic ac
 The Supply Chain Performance Analytics Dashboard demonstrates how Power BI can transform operational supply chain data into meaningful business intelligence. By integrating inventory, manufacturing, supplier, logistics, transportation, and quality metrics into a single interactive dashboard, the project provides stakeholders with a comprehensive view of supply chain performance. It showcases practical skills in data modeling, DAX, visualization, and analytical problem-solving while highlighting the value of Business Intelligence in improving operational efficiency and supporting strategic decision-making.
 
 ## AUTHOR
-   Aarzu Bharti
+Aarzu Bharti
 
 
 
